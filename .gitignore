@@ -1,2 +1,4 @@
 **/ssh/*
 **/playbook.retry
+.gitsecret/keys/random_seed
+!*.secret
